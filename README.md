@@ -54,7 +54,7 @@ Explore the fascinating insights and analyses from our Titanic dataset project:
 - **Survival Rates**: Explore survival rates based on various factors like class, age, and gender.
 - **Ticket Fare Analysis**: Investigate ticket fares and their correlation with survival.
 
-### Feature Engineering
+### Feature Engineering (optional)
 
 - **Creating New Features**: We engineer new features to enhance our analysis and model performance.
 - **Categorical Encoding**: Transform categorical data into a format suitable for machine learning.
@@ -75,7 +75,11 @@ These analysis highlights provide a glimpse into the depth and breadth of our ex
 
 Contributions are welcome! If you have suggestions, bug reports, or want to add new features, please open an issue or submit a pull request.
 
+You can perform Feature Engineering and  Predictive Modeling
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
