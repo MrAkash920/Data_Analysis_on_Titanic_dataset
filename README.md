@@ -40,10 +40,6 @@ You can explore the Titanic dataset and the analysis by opening the Jupyter note
 ```bash
 jupyter notebook
 
-
-### Analysis Highlights
-
-```markdown
 ## Analysis Highlights
 
 Here are some of the key insights and analyses you'll find in this project:
